@@ -1,0 +1,25 @@
+A. Parameters used by the GA 
+	a. Representation: Permutation
+	b. Population size: 600
+	c. Maximum Generation: 200
+	d. Recombination Method: Partially Mapped Crossover
+	e. Mutation Method: Inverse Mutation
+	f. Parent Selection Method: Tournament Selection
+	g. Survivor Selection Method: Elitism
+	h. Probability for Recombination: 0.9
+	i. Probability for Mutation: 0.05
+	j. Survival Rate:0.2
+B. Number of Generations Ran: 20
+C. Total Running Time: 6 seconds
+D. Number of Population Restarts: 0
+E. Phenotype of Best Performing Individual: 
+	4 7 6 8 3 1 5 9 2 
+	3 1 8 5 9 2 7 6 4 
+	5 9 2 6 4 7 1 8 3 
+	8 4 1 2 6 9 3 7 5 
+	7 6 3 1 5 8 2 4 9 
+	2 5 9 4 7 3 6 1 8 
+	1 3 7 9 8 5 4 2 6 
+	6 8 5 7 2 4 9 3 1 
+	9 2 4 3 1 6 8 5 7 
+F. Puzzle Solved
