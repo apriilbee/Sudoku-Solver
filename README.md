@@ -131,7 +131,7 @@ It remains a working example of how evolutionary computing can be applied to con
 
 Community contributions are welcome if you'd like to modernize or extend the functionality!
 
-## 📜 License
+## License
 
 For academic use only. Developed by **April Dae Bation** as part of a university project.
 
