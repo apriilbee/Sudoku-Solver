@@ -1,10 +1,10 @@
-# 🧠 Java Sudoku Solver using Evolutionary Algorithms
+# Java Sudoku Solver using Evolutionary Algorithms
 
 This is a **Java-based Sudoku Solver** that applies **Evolutionary Algorithms** to solve Sudoku puzzles of any `n x n` size (e.g., 4x4, 6x6, 9x9). This project was developed for a university assignment and demonstrates the use of heuristic search and AI optimization techniques.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── Constraint.java           # Defines fixed puzzle constraints
@@ -17,7 +17,7 @@ This is a **Java-based Sudoku Solver** that applies **Evolutionary Algorithms** 
 
 ---
 
-## 📌 Key Features
+## Key Features
 
 - Solves Sudoku puzzles using **Genetic Algorithms**
 - Accepts puzzle files with customizable sizes
@@ -31,7 +31,7 @@ This is a **Java-based Sudoku Solver** that applies **Evolutionary Algorithms** 
 
 ---
 
-## 🎯 Input Format
+## Input Format
 
 The solver accepts text files structured as:
 
@@ -54,7 +54,7 @@ The first line (`9`) defines the grid size. `0` is used for blank cells.
 
 ---
 
-## 🧬  Sample Output (Console/File)
+## Sample Output (Console/File)
 
 ```
 A. Parameters used by the GA 
@@ -89,7 +89,7 @@ Output is saved in a file named like `puzzle_example.in.out`.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Compile all files:
 ```bash
@@ -105,7 +105,7 @@ java mp2_sudoku.SudokuSolverReal
 
 ---
 
-## 📚 Educational Value
+## Educational Value
 
 - Demonstrates real-world application of evolutionary computing
 - Highlights constraint-aware GA operators
@@ -113,21 +113,21 @@ java mp2_sudoku.SudokuSolverReal
 
 ---
 
-## 📅 Project Status and Future Plans
+## Project Status and Future Plans
 
 This project was originally developed in 2016 as part of a university assignment.
 
 It remains a working example of how evolutionary computing can be applied to constraint satisfaction problems like Sudoku. While the current implementation is procedural and monolithic, future plans include:
 
-🔄 Refactoring to follow the MVC (Model-View-Controller) design pattern
+- Refactoring to follow the MVC (Model-View-Controller) design pattern
 
-🧪 Adding unit tests and modular class responsibilities
+- Adding unit tests and modular class responsibilities
 
-💡 Enhancing the fitness function for better convergence speed
+- Enhancing the fitness function for better convergence speed
 
-🌐 Adding a web interface or JavaFX GUI for interactive usage
+- Adding a web interface or JavaFX GUI for interactive usage
 
-🛠️ Support for saving/loading sessions and multiple difficulty levels
+- Support for saving/loading sessions and multiple difficulty levels
 
 Community contributions are welcome if you'd like to modernize or extend the functionality!
 
